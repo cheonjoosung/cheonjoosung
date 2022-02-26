@@ -28,7 +28,7 @@ Tools
 <ul>
   <li>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android-Studio-#3DDC84??style=flat-square&logo=Android-Studio&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84??style=flat-square&logo=Android Studio&logoColor=white"/>    
   </li>
 </ul>
 
