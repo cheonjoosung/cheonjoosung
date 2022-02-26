@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+사용언어
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)
+
+백준
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
+
 Language
 <ul>
   <li>
