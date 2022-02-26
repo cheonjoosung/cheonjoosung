@@ -1,5 +1,6 @@
 ### Hello. I am Joo-Sung Cheon. 👋
 
+<div align="center">
 <!--
 **cheonjoosung/cheonjoosung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Java-FFCA28??style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396??style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 [![JooSung's github stats](https://github-readme-stats.vercel.app/api?username=cheonjoosung)](https://github.com/anuraghazra/github-readme-stats)
+</div>
