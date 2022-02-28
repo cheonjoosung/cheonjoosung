@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <ul>
   <li> 🔭 I’m currently working on KB Data Systems. </li>
   <li> 🌱 I’m currently learning Android.</li>
-  <li> 📫 ![My Blog](https://cheonjoosung.github.io/blog/) </li>
+  <li> 📫 My Blog is https://cheonjoosung.github.io/blog </li>
 </ul>
 
 ## Language & Tools
