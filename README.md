@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 <ul>
-  <li>
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
+  <li>[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
   </li>
 </ul>
 
