@@ -1,4 +1,4 @@
-### Hello. I am Joo-Sung Cheon. 👋
+### 👋👋👋 Hello. I am Joo-Sung Cheon.[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
 
 <!--
 **cheonjoosung/cheonjoosung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 ## About Me
 <ul>
-  <li><div>[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)</div>
+  <li>
+    🔭 I’m currently working on KB Data Systems.
+    🌱 I’m currently learning Android.
+    📫 [My Blog](https://cheonjoosung.github.io/blog/)
   </li>
 </ul>
 
