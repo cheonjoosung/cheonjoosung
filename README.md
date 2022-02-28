@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   </li>
 </ul>
 
-|- Stat & Language [![JooSung's github stats](https://github-readme-stats.vercel.app/api?username=cheonjoosung)](https://github.com/anuraghazra/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)|
+|[![JooSung's github stats](https://github-readme-stats.vercel.app/api?username=cheonjoosung)](https://github.com/anuraghazra/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)|
 |-|-|
