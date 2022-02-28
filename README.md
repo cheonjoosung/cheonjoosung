@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
+<ul>
+  <li>
+    백준 알고리즘 Level [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
+  </li>
+</ul>
 
 ## Language & Tools
 <ul>
@@ -31,5 +35,6 @@ Here are some ideas to get you started:
   </li>
 </ul>
 
+## Statistics
 |[![JooSung's github stats](https://github-readme-stats.vercel.app/api?username=cheonjoosung)](https://github.com/anuraghazra/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)|
 |-|-|
