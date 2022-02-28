@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ## About Me
 <ul>
-  <li>
-    🔭 I’m currently working on KB Data Systems.
-    🌱 I’m currently learning Android.
-    📫 [My Blog](https://cheonjoosung.github.io/blog/)
-  </li>
+  <li> 🔭 I’m currently working on KB Data Systems. </li>
+  <li> 🌱 I’m currently learning Android.</li>
+  <li> 📫 ![My Blog](https://cheonjoosung.github.io/blog/) </li>
 </ul>
 
 ## Language & Tools
