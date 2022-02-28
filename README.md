@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me
 <ul>
   <li>
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd) 백준 알고리즘 level
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
   </li>
 </ul>
 
