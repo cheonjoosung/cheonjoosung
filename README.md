@@ -15,21 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width: 30%; height:150px; float: left;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)
-</div>
-<div style="width: 65%; height:150px; float: right;">
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
-</div>
-
-<!--
-사용언어
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)
-
-백준
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
--->
-
 ## Language
 <ul>
   <li>
@@ -47,4 +32,5 @@ Here are some ideas to get you started:
   </li>
 </ul>
 
-[![JooSung's github stats](https://github-readme-stats.vercel.app/api?username=cheonjoosung)](https://github.com/anuraghazra/github-readme-stats)
+|- Stat & Language [![JooSung's github stats](https://github-readme-stats.vercel.app/api?username=cheonjoosung)](https://github.com/anuraghazra/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)|
+|-|-|
