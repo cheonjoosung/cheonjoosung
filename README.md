@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center" width="100%">
+    <div width="50%"> 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)
+    </div>
+    <div width="50%"> 
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjswntjd)](https://solved.ac/cjswntjd)
+    </div>
+</p>
+
 <!--
 사용언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonjoosung)](https://github.com/cheonjoosung/github-readme-stats)
