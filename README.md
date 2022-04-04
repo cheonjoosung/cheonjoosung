@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ## About Me
 <ul>
   <li> 🔭 I’m currently working on KB Data Systems. (2020.06 ~ now)</li>
-  <li> 🌱 I’m currently learning Android.</li>
+  <li> 🔭 Worked at Lotte Information & Communication for 2 years. </li>
+  <li> 🌱 I’m currently learning Android(Kotlin & Java).</li>
   <li> 📫 My Blog is https://cheonjoosung.github.io/blog </li>
 </ul>
 
